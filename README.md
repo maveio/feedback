@@ -6,6 +6,6 @@ In this Github repository we keep track of feedback using discussions. You will 
 |---	|---	|
 | 🐛 Bugs	| [Report bug](https://github.com/maveio/feedback/discussions/categories/bugs) |
 | 💡 Ideas	| [Share feature request](https://github.com/maveio/feedback/discussions/categories/ideas) |
-| 💬 Questions	| [Ask us anything](https://github.com/maveio/feedback/discussions/categories/ideas) |
+| 💬 Questions	| [Ask us anything](https://github.com/maveio/feedback/discussions/categories/questions) |
 
 If you like get more involved, you can find us on Discord: [https://discord.gg/SBCKwnwHkC](https://discord.gg/SBCKwnwHkC)
